@@ -330,3 +330,9 @@ svg{
   }
 
   /* experience section styling */
+  #experience{
+    background-image: url("https://i.ibb.co/wW1P7L4/eberhard-grossgasteiger-Nvesr-Dbsr-L4-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 94vh;
+  }
