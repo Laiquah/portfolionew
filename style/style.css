@@ -278,4 +278,55 @@ svg{
     background-color: #e0c8d5;
     font-family: 'Montserrat', sans-serif;
     height: max-content;
+    padding-bottom: 3%;
 }
+
+.cardie {
+    width: 90%;
+    height: max-content;
+    border-radius: 4px;
+    display: flex;
+    gap: 5px;
+    padding: .4em;
+  }
+  
+  .cardie p {
+    padding: 1%;
+    height: 100%;
+    flex: 1;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all .5s;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .cardie p span {
+    text-align: center;
+    transform: rotate(-90deg);
+    transition: all .5s;
+    text-transform: uppercase;
+    color: black;
+    letter-spacing: .1em;
+  }
+
+  .heading20{
+    text-align: center;
+    font-size: 75px;
+    color: black;
+    padding-top: 2%;
+    text-decoration: underline;
+  }
+
+  .image1{
+    width: 48.5%;
+  }
+
+  .image2{
+    width: 45.5%;
+  }
+
+  /* experience section styling */
