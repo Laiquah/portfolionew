@@ -1,0 +1,141 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* navbar styling */
+.navbar{
+    background-color: #e0c8d5;
+}
+
+.nav-item{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* home section styling */
+#home{
+    background-image: url("https://i.ibb.co/wW1P7L4/eberhard-grossgasteiger-Nvesr-Dbsr-L4-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 94vh;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.div1{
+    text-align: center;
+    padding-top: 8%;
+}
+
+.heading1{
+    font-size: 40px;
+}
+
+.heading2{
+    font-size: 170px;
+}
+
+.heading3{
+    font-size: 40px;
+}
+
+.heading4{
+    font-size: 30px;
+}
+
+svg{
+    color:black
+}
+
+.div2{
+    padding-top: 5%;
+}
+
+/* about section styling */
+#about{
+    background-color: #e0c8d5;
+    font-family: 'Montserrat', sans-serif;
+    height: max-content;
+}
+
+.div3{
+    display: flex;
+    justify-content: center;
+    padding-top: 4%;
+}
+
+.img1{
+    width: 15% !important;
+    border-radius: 10%;
+}
+
+.heading5{
+    font-size: 70px;
+    text-align: center;
+}
+
+.heading6{
+    padding: 4%;
+    font-size: 20px;
+}
+
+.card{
+    width: 50%;
+    height: 20% !important;
+    background-color: transparent;
+    border: none !important;
+}
+
+.row{
+    width: 95%;
+    padding-top: 5%;
+}
+
+.card-body{
+    background-color: #e0c8d5;
+}
+
+.card-title{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading7{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 5%;
+}
+
+/* skills section styling */
+#skills{
+    background-image: url("https://i.ibb.co/DDHMY8H/rodion-kutsaiev-8-P-u-Qa-Td8rw-unsplash-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 94vh; */
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading8{
+    text-align: center;
+    font-size: 110px;
+    padding-top: 3%;
+}
+
+.heading9{
+    text-align: center;
+    font-size: 40px;
+}
+
+.heading10{
+    text-align: center;
+    font-size: 40px;
+}
+
+.rows{
+    width: 80%;
+    border: 5px solid white;
+    padding: 3%;
+}
+
+.card-bodys{
+    padding: 7%;
+}
